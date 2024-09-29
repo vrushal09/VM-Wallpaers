@@ -1,4 +1,4 @@
-# Wallpaper Gallery
+# VM-Wallpapers
 
 A simple wallpaper gallery website that fetches high-quality images from the Pexels API. Users can search for wallpapers, view them in full-screen preview, and download their favorite images.
 
@@ -28,7 +28,7 @@ A simple wallpaper gallery website that fetches high-quality images from the Pex
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/wallpaper-gallery.git
+    git clone https://github.com/vrushal09/vmwallpapers.git
     ```
 
 2. Open the project folder:
