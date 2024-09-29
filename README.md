@@ -49,6 +49,3 @@ A simple wallpaper gallery website that fetches high-quality images from the Pex
     ```javascript
     const apiKey = 'YOUR_API_KEY_HERE';
     ```
-
-## Folder Structure
-
