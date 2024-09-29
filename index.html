@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallpaper Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>VM-Wallpapers</h1>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Search for wallpapers...">
+                <button id="search-btn">Search</button>
+            </div>
+        </header>
+
+        <main>
+            <section id="wallpaper-gallery" class="gallery"></section>
+            <button id="load-more-btn" class="load-more-btn">Load More Wallpapers</button>
+        </main>
+
+        <!-- Preview Modal -->
+        <div id="preview-modal" class="modal" style="display: flex; flex-direction: column;">
+            <span id="close-modal" class="close">&times;</span>
+            <img id="preview-img" class="modal-content" alt="Wallpaper Preview">
+            <a id="download-link" href="#" download class="download-btn">Download Wallpaper</a>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
