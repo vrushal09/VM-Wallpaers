@@ -34,7 +34,7 @@ A simple wallpaper gallery website that fetches high-quality images from the Pex
 2. Open the project folder:
 
     ```bash
-    cd wallpaper-gallery
+    cd VM-Wallpapers
     ```
 
 3. Open `index.html` in your browser.
